@@ -11,3 +11,6 @@
 مثال: بدل ما تكتب:
 ```dart
 MediaQuery.of(context).size.width
+تقدر تكتب:
+```dart
+context.screenWidth
